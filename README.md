@@ -1,22 +1,4 @@
 # Prusa Mk3-Linear Rail Modification
-This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
-
-You are free to:
-
-Share — copy and redistribute the material in any medium or format
-
-Adapt — remix, transform, and build upon the material for any purpose, even commercially
-
-Under the following terms:
-
-Attribution — You must give appropriate credit and provide a link to the license.
-
-ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
-
-More info here: https://creativecommons.org/licenses/by-sa/4.0/
-
-
-
 This is a custom modification project for the Prusa i3 MK3 that upgrades the stock motion system with 2 sets of MGN12 linear rails, improving rigidity, print quality, and long-term reliability. 
 
 This was a fun hobby project, pieced together using parts I already had lying around. The result is a heavily reinforced design that boosts rigidity, theoretically improves print quality, and just looks cool. 
@@ -54,3 +36,19 @@ MGN12 Linear Rails: Hasanain Shuja: https://grabcad.com/library/mgn12-linear-gui
 
 
 Thank you for your contributions to the open-source project, as without these designs, making the correct changes to the model would be a lot more difficult.
+
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
+
+You are free to:
+
+Share — copy and redistribute the material in any medium or format
+
+Adapt — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+
+Attribution — You must give appropriate credit and provide a link to the license.
+
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+
+More info here: https://creativecommons.org/licenses/by-sa/4.0/
